@@ -1,7 +1,3 @@
-# Integrandes: Thiago Lozano, AlexSandro Castro, Glauco Conceição, Enzo Eolo Borsatti.
-# RAs: 20219833|18110791|20118948|17111571
-# Laboratório e Organização Computacional
-# Ano: 2020
 class ConversorIEEE754:
     # Método Construtor.
     def __init__(self):
